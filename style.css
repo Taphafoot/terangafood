@@ -7,15 +7,21 @@
 }
 
 .body {overflow-x: hidden;width: 100%;
-  background-color: rgb(238, 217, 187)
+  background-color: rgb(238, 217, 187);
+  margin: 0;
+  padding: 0)
 }
 
 .body1 {
-  background: linear-gradient(180deg, rgb(238, 217, 187), rgb(229, 135, 3))
+  background: linear-gradient(180deg, rgb(238, 217, 187), rgb(229, 135, 3));
+  margin: 0;
+  padding: 0
 }
 
 .body2 {
-  background-color: #150d01
+  background-color: #150d01;
+  margin: 0;
+  padding: 0;
 }
 
 .bandehome {
