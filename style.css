@@ -1485,13 +1485,16 @@
 
   .body {
     margin-top: 30px;
-    background: linear-gradient(180deg, rgb(238, 217, 187), rgb(103, 60, 0));
+    background: linear-gradient(180deg, rgb(238, 217, 187), rgb(250, 146, 0));
   }
 
   .logo1 {
     width: 80px;
     height: 80px;
-    margin-left: 10px;
+    margin-left: 10px
+  }
+  .logo1:hover {
+    display: block;
   }
 
   .bandehome {
